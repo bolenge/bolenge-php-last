@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<routes>
+	<route url="/admin/mmm" controller="Test" action="index" />
+	<route url="/admin" controller="Pages" action="index" />
+</routes>
