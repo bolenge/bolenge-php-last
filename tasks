@@ -1,7 +1,0 @@
-Les différents modules développés dans l'API
-
--- Categories
-  ✔ create (Permet de créer une catégorie) @done (19-03-27 10:23)
-  ✔ getCategories @done (19-03-27 12:37)
-  ✔ getAllCategories @done (19-03-27 12:37)
-  ✔ setCategories @done (19-03-27 15:45)
